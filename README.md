@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Paulina!
+## Hi, I'm Paulina! 👋
 
 🎓 **Computer Science graduate from The University of Texas at El Paso**
 💻 Interested in **Software Engineering, Full-Stack Development, and AI/ML**
